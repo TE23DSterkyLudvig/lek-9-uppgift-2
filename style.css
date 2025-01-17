@@ -1,0 +1,8 @@
+main{
+    display: flex;
+    flex-direction: row;
+
+}
+.svar{
+    border: 2px solid black;
+}
