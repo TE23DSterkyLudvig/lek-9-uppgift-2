@@ -1,8 +1,7 @@
-main{
-    display: flex;
-    flex-direction: row;
-
+main {
+  display: flex;
+  flex-direction: row;
 }
-.svar{
-    border: 2px solid black;
+.svar {
+  border: 2px solid black;
 }
